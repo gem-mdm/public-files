@@ -1,0 +1,28 @@
+{
+    "message": {
+        "HR": [
+            "Alice Johnson",
+            "Bob Smith"
+        ],
+        "Finance": [
+            "John Doe",
+            "Jane Adams"
+        ],
+        "Marketing": [
+            "Sarah Lee"
+        ],
+        "IT": [
+            "Michael Brown",
+            "Emily Davis"
+        ],
+        "Operations": [],
+        "Legal": [
+            "Linda White"
+        ],
+        "Sales": [
+            "Robert Green",
+            "Nancy Black"
+        ]
+    },
+    "status": "success"
+}
